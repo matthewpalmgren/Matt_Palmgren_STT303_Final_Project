@@ -30,3 +30,7 @@ Guide
 Final Project Gene Expression Data Set.R   ### is my R script
 Gene Expression Data Report ### is my essay explaining motives, context, and biological conclusions
 STT303 Final Presentation ### A power point presentation of my findings
+URL for my video presentation is below
+https://youtu.be/LfPAUlPVSqY
+If you want more concise information then definitley read the essay
+
